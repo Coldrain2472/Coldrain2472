@@ -1,4 +1,4 @@
-🌱 I’m currently learning C# Advanced at SoftUni.
+🌱 I’m currently learning C# DB at SoftUni.
 
 ⚡ Fun fact: The first computer game was created in 1961.
 
