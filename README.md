@@ -1,5 +1,5 @@
 # 🚀 About me:
-- 👨‍💻 I’m currently learning C# DB at SoftUni.
+- 👨‍💻 I’m currently studying C# Web at SoftUni.
 
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204321783-2857778e-408c-46dc-b1e4-a6db66de9536.png">  I'm passionate about programming.
 - <img width="20" src="https://user-images.githubusercontent.com/112943652/204307942-2b7c1149-786c-4262-aa80-4f4d9012c282.png">  I love playing video games.
