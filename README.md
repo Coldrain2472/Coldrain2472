@@ -19,5 +19,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Coldrain2472&theme=aura&hide_border=false) </br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coldrain2472&layout=compact&langs_count=4&theme=aura&hide_border=false")
 ---
-[![](https://visitcount.itsvg.in/api?id=Coldrain2472&label=Profile%20Views&color=5&icon=0&pretty=true)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=Coldrain2472&color=blueviolet)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
